@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Bluebbles
+- 👀 I’m interested in coding and programming - i'm a newbie...
+- 🌱 I’m currently learning javascript and learning to code my own discord bot - in the future more...
+- 📫 How to reach me ...
+
+<!---
+Bluebbles/Bluebbles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
